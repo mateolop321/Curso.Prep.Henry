@@ -1,0 +1,11 @@
+* Variables:
+    son datos con los que puedo trabajar en mi programa
+* Strings:
+    son cadenas de caracteres.
+* Funciones (argumentos, 'return'):
+    conjunto reutilizable de declaraciones para realizar una tarea especifica
+    se le pasan parametros o argumentos y retorna un valor en consecuencia
+*Declaraciones:
+    se usan para controlar el flujo del programa.
+*Booleanos:
+    un tipo de variable binaria importante para la logica del programa.
